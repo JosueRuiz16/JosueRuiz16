@@ -1,1 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="url(#paint0_linear_194_8)" rx="60"/><path fill="#fff" d="M140.279 73.0456L113.618 72.9995L76.6763 170.886L100.79 170.928L106.819 154.342L143.194 154.404L136.317 136.038L112.371 135.996L127.28 93.875L156.214 171.023L180.329 171.065L140.279 73.0456Z"/><path fill="#fff" d="M233.142 99.1236C233.074 98.7932 232.975 98.4692 232.845 98.1559C232.814 98.048 232.708 97.8484 232.708 97.8484C232.256 96.9105 231.54 96.115 230.647 95.5565C229.753 94.998 228.719 94.7 227.668 94.6979C226.21 94.6954 224.82 95.2609 223.805 96.2701C222.79 97.2794 222.232 98.6496 222.255 100.079C222.264 100.685 222.381 101.266 222.577 101.808L222.561 101.814C225.148 110.399 226.527 119.272 226.659 128.183C227.07 154.102 217.16 178.454 198.759 196.75C180.355 215.047 155.659 225.096 129.221 225.051C102.785 225.005 77.7671 214.868 58.7843 196.508C39.7971 178.147 29.1172 153.76 28.7064 127.841C28.2956 101.921 38.2051 77.57 56.6092 59.2739C75.011 40.9767 99.7085 30.9277 126.145 30.9734C149.752 31.0142 172.221 39.1071 190.278 53.9126C189.686 55.448 189.395 57.0838 189.422 58.7349C189.537 66.0138 195.648 71.9221 203.074 71.9349C210.497 71.9477 216.423 66.0604 216.307 58.7814C216.192 51.5024 210.079 45.591 202.656 45.5781C201.036 45.5753 199.489 45.853 198.059 46.3648C178.55 30.1002 153.358 20.2376 125.974 20.1902C65.2366 20.0852 16.7651 68.2735 17.709 127.822C18.6528 187.37 68.6545 235.729 129.392 235.834C190.13 235.939 238.601 187.752 237.658 128.202C237.498 118.13 235.924 108.378 233.142 99.1236V99.1236Z"/><defs><linearGradient id="paint0_linear_194_8" x1="0" x2="256" y1="0" y2="256" gradientUnits="userSpaceOnUse"><stop stop-color="#4010AC"/><stop offset="1" stop-color="#D540A8"/></linearGradient></defs></svg>
+# 👋 ¡Hola! Soy [Tu Nombre/Apodo]
+
+### Desarrollador [Frontend/Backend/Full Stack/Especialidad] | [Tecnología principal]
+
+[![GitHub followers](https://img.shields.io/github/followers/tuusuario?label=Sígueme&style=social)](https://github.com/tuusuario)
+[![Twitter Follow](https://img.shields.io/twitter/follow/tuusuario?style=social)](https://twitter.com/tuusuario)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tuusuario)
+
+---
+
+## 🚀 Sobre mí
+
+- 🔭 Actualmente estoy trabajando en **[Proyecto actual]**
+- 🌱 Aprendiendo **tecnología/framework nuevo**
+- 👯 Buscando colaborar en **tipo de proyectos**
+- 🤔 Necesito ayuda con **algo específico**
+- 💬 Pregúntame sobre **tus temas de expertise**
+- 📫 Cómo contactarme: **tuemail@ejemplo.com**
+- ⚡ Dato curioso: **algo interesante sobre ti**
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
+### Lenguajes de programación
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+
+### Bases de datos
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+### Herramientas y otros
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true&theme=radical&hide_border=true)
+
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical&hide_border=true)
+
+---
+
+## 🌟 Proyectos destacados
+
+### 🏆 [Proyecto destacado 1](https://github.com/tuusuario/proyecto1)
+Breve descripción del proyecto. Tecnologías utilizadas: **React, Node.js, MongoDB**
+
+### 🥈 [Proyecto destacado 2](https://github.com/tuusuario/proyecto2)
+Breve descripción del proyecto. Tecnologías utilizadas: **Vue.js, Python, PostgreSQL**
+
+### 🥉 [Proyecto destacado 3](https://github.com/tuusuario/proyecto3)
+Breve descripción del proyecto. Tecnologías utilizadas: **React Native, Firebase**
+
+---
+
+## 📝 Últimas publicaciones en el blog
+
+<!-- Si tienes blog, puedes agregar entradas recientes -->
+- [Título de la publicación 1](https://tublog.com/post1) - Fecha
+- [Título de la publicación 2](https://tublog.com/post2) - Fecha
+- [Título de la publicación 3](https://tublog.com/post3) - Fecha
+
+---
+
+## 🤝 ¡Colaboremos!
+
+- ¿Tienes una idea para un proyecto?
+- ¿Necesitas ayuda con algún problema técnico?
+- ¿Quieres sugerir una mejora para alguno de mis proyectos?
+
+¡No dudes en [contactarme](mailto:tuemail@ejemplo.com) o abrir un issue en cualquiera de mis repositorios!
+
+---
+
+## 📈 Actividad reciente
+
+<!-- Puedes agregar un feed de actividad si quieres -->
+![Actividad de GitHub](https://github-readme-activity-graph.vercel.app/graph?username=tuusuario&theme=github)
+
+---
+
+## 💖 Apoya mi trabajo
+
+Si te gusta lo que hago y quieres apoyarme:
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tuusuario)
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tuusuario)
+
+---
+
+⭐️ De [tuusuario](https://github.com/tuusuario)
