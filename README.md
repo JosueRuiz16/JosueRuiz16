@@ -1,14 +1,33 @@
-Josue RG - Player 1
+# 🎮 ¡GAME START!
 
-<div align="center"> <!-- ESPACIO PARA GIF (150x150 px) --> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh6dmU5MGs5anJxMG9qZThjOXIyZ2doeTl6MmFzMW03OXdqM3Q0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2K5jinAlQueCLK/giphy.gif" width="150" height="150" alt="Game Character">
+<div align="center">
+
+**Josue RG - Player 1**  
+
+<!-- ESPACIO PARA GIF (150x150 px) -->
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh6dmU5MGs5anJxMG9qZThjOXIyZ2doeTl6MmFzMW03OXdqM3Q0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2K5jinAlQueCLK/giphy.gif" width="150" height="150" alt="Game Character">
+
+<br>
+
 <span style="color:#00ff00; font-size: 2.5em">JOSUE RG</span>
-<p>🎯 SOBRE MÍ
-¡Hola! Soy un apasionado desarrollador con mentalidad gamer. Me encanta transformar ideas en código y enfrentar nuevos desafíos como si fueran niveles por superar. Mi misión es crear soluciones innovadoras mientras sigo aprendiendo y mejorando mis habilidades.</p>
-<div>
-  ![Typing Animation](https://readme-typing-svg.demolapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=¿Hay+algo+mejor+que+aprender+a+programar?;¡S%C3%AD!+Programar+y+jugar+🎮;Code+%2B+Games+%3D+∞+Posibilidades)
-</div>
 
-### My Projects ✨:
+---
+
+## 🎯 SOBRE MÍ
+
+¡Hola! Soy un apasionado desarrollador con mentalidad gamer. Me encanta transformar ideas en código y enfrentar nuevos desafíos como si fueran niveles por superar. Mi misión es crear soluciones innovadoras mientras sigo aprendiendo y mejorando mis habilidades.
+
+---
+
+## 💭
+
+![Typing Animation](https://readme-typing-svg.demolapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=¿Hay+algo+mejor+que+aprender+a+programar?;¡S%C3%AD!+Programar+y+jugar+🎮;Code+%2B+Games+%3D+∞+Posibilidades)
+
+---
+
+## 🏆 MIS PROYECTOS ✨:
+
+<div align="center">
   
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
@@ -18,6 +37,8 @@ Josue RG - Player 1
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
 </a>
 
+<br>
+
 <a href="https://github.com/Davekibh/Picture-Sharing-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
 </a>
@@ -26,6 +47,8 @@ Josue RG - Player 1
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
 </a>
 
+<br>
+
 <a href="https://github.com/Davekibh/Quiz-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
 </a>
@@ -33,6 +56,13 @@ Josue RG - Player 1
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
+
+</div>
+
+---
+
+## 🏅 LOGROS Y COMPETENCIAS
+
 ### 🥇 TROFEOS
 ![Trophy 1](https://img.shields.io/badge/🥇_Hackathon_2023-Gold-FFD700?style=flat-square)
 ![Trophy 2](https://img.shields.io/badge/🥈_Code_Wars-Silver-C0C0C0?style=flat-square)
@@ -42,7 +72,12 @@ Josue RG - Player 1
 ![Rank](https://img.shields.io/badge/RANK-LEGENDARY-purple?style=for-the-badge)
 ![Win Rate](https://img.shields.io/badge/WIN_RATE-85%25-green?style=for-the-badge)
 ![Days Streak](https://img.shields.io/badge/STREAK-365_days-orange?style=for-the-badge)
-<div aling="Center"><!-- ESPACIO PARA LOGOS DE EMPRESAS/COMPETENCIAS -->
+
+---
+
+## 🏢 EMPRESAS/COMPETENCIAS
+
+<!-- ESPACIO PARA LOGOS DE EMPRESAS/COMPETENCIAS -->
 <table>
   <tr>
     <td align="center">
@@ -59,7 +94,11 @@ Josue RG - Player 1
     </td>
   </tr>
 </table>
-</div>
+
+---
+
+## 🛠️ TECNOLOGÍAS
+
 ### 🎮 LENGUAJES DE PROGRAMACIÓN
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -88,10 +127,3 @@ skills = {
     "App Inventor": "★★★★★",
     "Scratch": "★★★★★"
 }
-```[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tuusuario)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tuusuario)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tuusuario)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/tuusuario)
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://twitch.tv/tuusuario)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/tuusuario)
-
