@@ -114,9 +114,7 @@
 ### 🧩 HERRAMIENTAS VISUALES
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![App Inventor](https://img.shields.io/badge/App_Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white)
-
-📊 NIVEL DE HABILIDAD
-python
+```python
 skills = {
     "HTML/CSS": "★★★★★",
     "JavaScript": "★★★★☆",
