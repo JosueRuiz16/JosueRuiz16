@@ -116,7 +116,7 @@
 ![App Inventor](https://img.shields.io/badge/App_Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 
 ### 📊 NIVEL DE HABILIDAD
-```python
+python
 skills = {
     "HTML/CSS": "★★★★★",
     "JavaScript": "★★★★☆",
