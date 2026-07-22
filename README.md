@@ -29,17 +29,17 @@
 
 <div align="center">
 
-<a href="https://github.com/Davekibh/Background-generator">
+<a href="https://www.youtube.com/@gamersenaccion95">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWirCf0PrTEaY0S2eyJe9SCKeaWKfUPiMm6dlQmZxPrf84xZbV9A-cmpKR&s=10" />
 </a>
-<a href="https://github.com/Davekibh/robofriends">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
+<a href="https://code-fu.net.ni/">
+ <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7crj9eVUZzf70p9d5EsmcShrUos08Meg4A2hUqDDrQA&s=10" />
 </a>
 
 <br>
 
-<a href="https://github.com/Davekibh/Picture-Sharing-app">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
+<a href="https://github.com/JosueRuiz16/-webescolar">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKd-ZrsICuvUw8x0xuFukLuXOMQtT6Mddp5fAFY71jPK5LuPSc7b-C4Y6&s=10" />
 </a>
 <a href="https://github.com/Davekibh/Chat-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
