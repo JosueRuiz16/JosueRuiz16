@@ -86,20 +86,8 @@
 ![App Inventor](https://img.shields.io/badge/App_Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white)
 
 ### 📊 BARRA DE EXPERIENCIA (XP)
-```python
-skills = {
-    "HTML/CSS":     "█████████░  90%",
-    "JavaScript":   "████████░░  80%",
-    "Python":       "████████░░  80%",
-    "Django":       "██████░░░░  60%",
-    "Java":         "██████░░░░  60%",
-    "C/C++":        "██████░░░░  60%",
-    "App Inventor": "██████████ 100%",
-    "Scratch":      "██████████ 100%",
-}
-```
 
----
+<img src="./xp-bar.svg" alt="XP bars" />
 
 <div align="center">
 
