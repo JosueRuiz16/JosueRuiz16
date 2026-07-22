@@ -30,7 +30,7 @@
 <div align="center">
 
 <a href="https://github.com/Davekibh/Background-generator">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWirCf0PrTEaY0S2eyJe9SCKeaWKfUPiMm6dlQmZxPrf84xZbV9A-cmpKR&s=10" />
 </a>
 <a href="https://github.com/Davekibh/robofriends">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
