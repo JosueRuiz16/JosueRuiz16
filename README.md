@@ -1,38 +1,37 @@
-# 🎮 ¡GAME START!
-
 <div align="center">
 
-**Josue RG - Player 1**  
+![Header](https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=JOSUE%20RG&fontSize=60&fontColor=39FF14&fontAlignY=45&desc=PLAYER%20ONE%20%E2%80%A2%20DEVELOPER&descAlignY=65&descColor=00FFFF&fontFamily=monospace)
 
-<!-- ESPACIO PARA GIF (150x150 px) -->
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGh6dmU5MGs5anJxMG9qZThjOXIyZ2doeTl6MmFzMW03OXdqM3Q0NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3q2K5jinAlQueCLK/giphy.gif" width="150" height="150" alt="Game Character">
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3500&pause=800&color=39FF14&center=true&vCenter=true&width=600&height=45&lines=INSERT+COIN+TO+CONTINUE;LOADING+DEV.EXE...;PRESS+START" alt="Typing SVG" />
 
 <br>
 
-<span style="color:#00ff00; font-size: 2.5em">JOSUE RG</span>
+![Rank](https://img.shields.io/badge/RANK-LEGENDARY-9400D3?style=for-the-badge&labelColor=000000)
+![Lives](https://img.shields.io/badge/LIVES-%E2%99%A5%20%E2%99%A5%20%E2%99%A5-FF0040?style=for-the-badge&labelColor=000000)
+![Score](https://img.shields.io/badge/HIGH_SCORE-99%25-FFD700?style=for-the-badge&labelColor=000000)
+
+</div>
 
 ---
 
-## 🎯 SOBRE MÍ
+## 🕹️ SOBRE MÍ
 
-¡Hola! Soy un apasionado desarrollador con mentalidad gamer. Me encanta transformar ideas en código y enfrentar nuevos desafíos como si fueran niveles por superar. Mi misión es crear soluciones innovadoras mientras sigo aprendiendo y mejorando mis habilidades.
+```
+> LOADING PLAYER PROFILE...
+> Desarrollador con mentalidad gamer. Cada proyecto es un nivel
+> nuevo que superar: bugs = enemigos, features = power-ups.
+> Objetivo actual: seguir subiendo de nivel en código y en juegos.
+```
 
 ---
 
-## 💭
-
-![Typing Animation](https://readme-typing-svg.demolapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&height=50&lines=¿Hay+algo+mejor+que+aprender+a+programar?;¡S%C3%AD!+Programar+y+jugar+🎮;Code+%2B+Games+%3D+∞+Posibilidades)
-
----
-
-## 🏆 MIS PROYECTOS ✨:
+## 🎮 GAME MAP — MIS PROYECTOS
 
 <div align="center">
-  
+
 <a href="https://github.com/Davekibh/Background-generator">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Background-generator&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/robofriends">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=robofriends&theme=tokyonight" />
 </a>
@@ -42,7 +41,6 @@
 <a href="https://github.com/Davekibh/Picture-Sharing-app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Picture-Sharing-app&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/Chat-app">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
 </a>
@@ -52,7 +50,6 @@
 <a href="https://github.com/Davekibh/Quiz-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
 </a>
-
 <a href="https://github.com/Davekibh/Quiz-Admin-App">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
 </a>
@@ -61,51 +58,36 @@
 
 ---
 
-## 🏅 LOGROS Y COMPETENCIAS
+## 🏆 LOGROS DESBLOQUEADOS
 
-### 🥇 TROFEOS
-![Trophy 1](https://img.shields.io/badge/🥇_Hackathon_2023-Gold-FFD700?style=flat-square)
-![Trophy 2](https://img.shields.io/badge/🥈_Code_Wars-Silver-C0C0C0?style=flat-square)
-![Trophy 3](https://img.shields.io/badge/🥉_Game_Jam-Bronze-CD7F32?style=flat-square)
-
-### 📊 ESTADÍSTICAS
-![Rank](https://img.shields.io/badge/RANK-LEGENDARY-purple?style=for-the-badge)
-![Win Rate](https://img.shields.io/badge/WIN_RATE-85%25-green?style=for-the-badge)
-![Days Streak](https://img.shields.io/badge/STREAK-365_days-orange?style=for-the-badge)
+![Trophy 1](https://img.shields.io/badge/🥇_Hackathon_2023-Gold-FFD700?style=flat-square&labelColor=000)
+![Trophy 2](https://img.shields.io/badge/🥈_Code_Wars-Silver-C0C0C0?style=flat-square&labelColor=000)
+![Trophy 3](https://img.shields.io/badge/🥉_Game_Jam-Bronze-CD7F32?style=flat-square&labelColor=000)
+![Streak](https://img.shields.io/badge/STREAK-365_days-FF6F00?style=for-the-badge&labelColor=000)
 
 ---
 
-## 🏢 EMPRESAS/COMPETENCIAS
+## 🐍 SNAKE COMIÉNDOSE MIS CONTRIBUCIONES
 
-<!-- ESPACIO PARA LOGOS DE EMPRESAS/COMPETENCIAS -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://via.placeholder.com/80x40/1E90FF/FFFFFF?text=COMPANY+1" width="80" height="40" alt="Company 1">
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/80x40/32CD32/FFFFFF?text=HACKATHON" width="80" height="40" alt="Hackathon">
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/80x40/FF4500/FFFFFF?text=GAME+JAM" width="80" height="40" alt="Game Jam">
-    </td>
-    <td align="center">
-      <img src="https://via.placeholder.com/80x40/9400D3/FFFFFF?text=CODE+WARS" width="80" height="40" alt="Code Wars">
-    </td>
-  </tr>
-</table>
+<!--
+  Esto NO es una imagen estática: se genera solo con un GitHub Action.
+  1. Crea la carpeta .github/workflows/snake.yml en tu repo de perfil
+  2. Pega el contenido de más abajo (sección "CÓMO ACTIVAR EL SNAKE")
+  3. Al correr la Action, se genera esta imagen automáticamente
+-->
+<img src="https://raw.githubusercontent.com/Davekibh/Davekibh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
-## 🛠️ TECNOLOGÍAS
+## 🛠️ INVENTARIO DE ARMAS (TECNOLOGÍAS)
 
-### 🎮 LENGUAJES DE PROGRAMACIÓN
+### ⚔️ LENGUAJES
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🌐 WEB DEVELOPMENT
+### 🛡️ WEB DEVELOPMENT
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -114,16 +96,25 @@
 ### 🧩 HERRAMIENTAS VISUALES
 ![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=scratch&logoColor=white)
 ![App Inventor](https://img.shields.io/badge/App_Inventor-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+
+### 📊 BARRA DE EXPERIENCIA (XP)
 ```python
 skills = {
-    "HTML/CSS": "★★★★★",
-    "JavaScript": "★★★★☆",
-    "Python": "★★★★☆",
-    "Django": "★★★☆☆",
-    "Java": "★★★☆☆",
-    "C/C++": "★★★☆☆",
-    "App Inventor": "★★★★★",
-    "Scratch": "★★★★★"
+    "HTML/CSS":     "█████████░  90%",
+    "JavaScript":   "████████░░  80%",
+    "Python":       "████████░░  80%",
+    "Django":       "██████░░░░  60%",
+    "Java":         "██████░░░░  60%",
+    "C/C++":        "██████░░░░  60%",
+    "App Inventor": "██████████ 100%",
+    "Scratch":      "██████████ 100%",
 }
-````
+```
 
+---
+
+<div align="center">
+
+![Footer](https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer&text=GAME%20OVER%3F%20CONTINUE%3F&fontSize=22&fontColor=FF0040&fontAlignY=60&fontFamily=monospace)
+
+</div>
