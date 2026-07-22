@@ -60,22 +60,10 @@
 
 ## 🏆 LOGROS DESBLOQUEADOS
 
-![Trophy 1](https://img.shields.io/badge/🥇_Hackathon_2023-Gold-FFD700?style=flat-square&labelColor=000)
+![Trophy 1](https://img.shields.io/badge/🥇_CS50-Gold-FFD700?style=flat-square&labelColor=000)
 ![Trophy 2](https://img.shields.io/badge/🥈_Code_Wars-Silver-C0C0C0?style=flat-square&labelColor=000)
-![Trophy 3](https://img.shields.io/badge/🥉_Game_Jam-Bronze-CD7F32?style=flat-square&labelColor=000)
+![Trophy 3](https://img.shields.io/badge/🥉_Gamer_en_Acción_2025-Bronze-CD7F32?style=flat-square&labelColor=000)
 ![Streak](https://img.shields.io/badge/STREAK-365_days-FF6F00?style=for-the-badge&labelColor=000)
-
----
-
-## 🐍 SNAKE COMIÉNDOSE MIS CONTRIBUCIONES
-
-<!--
-  Esto NO es una imagen estática: se genera solo con un GitHub Action.
-  1. Crea la carpeta .github/workflows/snake.yml en tu repo de perfil
-  2. Pega el contenido de más abajo (sección "CÓMO ACTIVAR EL SNAKE")
-  3. Al correr la Action, se genera esta imagen automáticamente
--->
-<img src="https://raw.githubusercontent.com/Davekibh/Davekibh/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ---
 
