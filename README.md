@@ -30,7 +30,7 @@
 <div align="center">
 
 <a href="https://www.youtube.com/@gamersenaccion95">
-  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWirCf0PrTEaY0S2eyJe9SCKeaWKfUPiMm6dlQmZxPrf84xZbV9A-cmpKR&s=10" />
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWirCf0PrTEaY0S2eyJe9SCKeaWKfUPiMm6dlQmZxPrf84xZbV9A-cmpKR&s=10" style= img{margin = 5px;} />
 </a>
 <a href="https://code-fu.net.ni/">
  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7crj9eVUZzf70p9d5EsmcShrUos08Meg4A2hUqDDrQA&s=10" />
