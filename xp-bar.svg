@@ -1,0 +1,62 @@
+<svg width="640" height="360" viewBox="0 0 640 360" xmlns="http://www.w3.org/2000/svg" style="background:#0d0d1a">
+  <rect width="640" height="360" fill="#0d0d1a"/>
+  <text x="20" y="30" font-family="monospace" font-size="16" fill="#39FF14" font-weight="bold">BARRA DE EXPERIENCIA (XP)</text>
+
+  <!-- Plantilla de barra: 10 bloques de 20x16px con separación de 2px -->
+
+  <!-- HTML/CSS 90% -->
+  <text x="20" y="65" font-family="monospace" font-size="13" fill="#00FFFF">HTML/CSS</text>
+  <g transform="translate(180,53)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#39FF14"/><rect x="140" y="0" width="18" height="16" fill="#39FF14"/><rect x="160" y="0" width="18" height="16" fill="#39FF14"/><rect x="180" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/>
+  </g>
+  <text x="410" y="65" font-family="monospace" font-size="13" fill="#FFD700">90%</text>
+
+  <!-- JavaScript 80% -->
+  <text x="20" y="95" font-family="monospace" font-size="13" fill="#00FFFF">JavaScript</text>
+  <g transform="translate(180,83)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#39FF14"/><rect x="140" y="0" width="18" height="16" fill="#39FF14"/><rect x="160" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="180" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/>
+  </g>
+  <text x="410" y="95" font-family="monospace" font-size="13" fill="#FFD700">80%</text>
+
+  <!-- Python 80% -->
+  <text x="20" y="125" font-family="monospace" font-size="13" fill="#00FFFF">Python</text>
+  <g transform="translate(180,113)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#39FF14"/><rect x="140" y="0" width="18" height="16" fill="#39FF14"/><rect x="160" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="180" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/>
+  </g>
+  <text x="410" y="125" font-family="monospace" font-size="13" fill="#FFD700">80%</text>
+
+  <!-- Django 60% -->
+  <text x="20" y="155" font-family="monospace" font-size="13" fill="#00FFFF">Django</text>
+  <g transform="translate(180,143)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="140" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="160" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="180" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/>
+  </g>
+  <text x="410" y="155" font-family="monospace" font-size="13" fill="#FFD700">60%</text>
+
+  <!-- Java 60% -->
+  <text x="20" y="185" font-family="monospace" font-size="13" fill="#00FFFF">Java</text>
+  <g transform="translate(180,173)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="140" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="160" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="180" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/>
+  </g>
+  <text x="410" y="185" font-family="monospace" font-size="13" fill="#FFD700">60%</text>
+
+  <!-- C/C++ 60% -->
+  <text x="20" y="215" font-family="monospace" font-size="13" fill="#00FFFF">C/C++</text>
+  <g transform="translate(180,203)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="140" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="160" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/><rect x="180" y="0" width="18" height="16" fill="#1a1a2e" stroke="#39FF14" stroke-width="1"/>
+  </g>
+  <text x="410" y="215" font-family="monospace" font-size="13" fill="#FFD700">60%</text>
+
+  <!-- App Inventor 100% -->
+  <text x="20" y="245" font-family="monospace" font-size="13" fill="#00FFFF">App Inventor</text>
+  <g transform="translate(180,233)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#39FF14"/><rect x="140" y="0" width="18" height="16" fill="#39FF14"/><rect x="160" y="0" width="18" height="16" fill="#39FF14"/><rect x="180" y="0" width="18" height="16" fill="#39FF14"/>
+  </g>
+  <text x="410" y="245" font-family="monospace" font-size="13" fill="#FFD700">100%</text>
+
+  <!-- Scratch 100% -->
+  <text x="20" y="275" font-family="monospace" font-size="13" fill="#00FFFF">Scratch</text>
+  <g transform="translate(180,263)">
+    <rect x="0" y="0" width="18" height="16" fill="#39FF14"/><rect x="20" y="0" width="18" height="16" fill="#39FF14"/><rect x="40" y="0" width="18" height="16" fill="#39FF14"/><rect x="60" y="0" width="18" height="16" fill="#39FF14"/><rect x="80" y="0" width="18" height="16" fill="#39FF14"/><rect x="100" y="0" width="18" height="16" fill="#39FF14"/><rect x="120" y="0" width="18" height="16" fill="#39FF14"/><rect x="140" y="0" width="18" height="16" fill="#39FF14"/><rect x="160" y="0" width="18" height="16" fill="#39FF14"/><rect x="180" y="0" width="18" height="16" fill="#39FF14"/>
+  </g>
+  <text x="410" y="275" font-family="monospace" font-size="13" fill="#FFD700">100%</text>
+</svg>
