@@ -41,19 +41,6 @@
 <a href="https://github.com/JosueRuiz16/-webescolar">
   <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlKd-ZrsICuvUw8x0xuFukLuXOMQtT6Mddp5fAFY71jPK5LuPSc7b-C4Y6&s=10" />
 </a>
-<a href="https://github.com/Davekibh/Chat-app">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Chat-app&theme=tokyonight" />
-</a>
-
-<br>
-
-<a href="https://github.com/Davekibh/Quiz-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-App&theme=tokyonight" />
-</a>
-<a href="https://github.com/Davekibh/Quiz-Admin-App">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Davekibh&repo=Quiz-Admin-App&theme=tokyonight" />
-</a>
-
 </div>
 
 ---
